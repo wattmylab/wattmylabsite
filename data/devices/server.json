@@ -1,0 +1,174 @@
+[
+  {
+    "slug": "dell-r620",
+    "name": "Dell PowerEdge R620",
+    "idleW": 95,
+    "loadW": 250,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2620, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "server"
+  },
+  {
+    "slug": "dell-r720",
+    "name": "Dell PowerEdge R720",
+    "idleW": 110,
+    "loadW": 300,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2620 v2, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "dell-r720xd",
+    "name": "Dell PowerEdge R720xd",
+    "idleW": 130,
+    "loadW": 330,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2620 v2, 64 GB RAM, 8\u00d7 3.5\" HDD, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "dell-r730",
+    "name": "Dell PowerEdge R730",
+    "idleW": 100,
+    "loadW": 280,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2630 v3, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "dell-r730xd",
+    "name": "Dell PowerEdge R730xd",
+    "idleW": 120,
+    "loadW": 320,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2630 v4, 64 GB RAM, 8\u00d7 3.5\" HDD, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "dell-r630",
+    "name": "Dell PowerEdge R630",
+    "idleW": 85,
+    "loadW": 250,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2630 v3, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "server"
+  },
+  {
+    "slug": "dell-t320",
+    "name": "Dell PowerEdge T320",
+    "idleW": 60,
+    "loadW": 160,
+    "sourceType": "estimate",
+    "config": "1\u00d7 E5-2430, 32 GB RAM, 4\u00d7 3.5\" HDD",
+    "lastReviewed": "2026-10-05",
+    "category": "server"
+  },
+  {
+    "slug": "hp-dl360-gen8",
+    "name": "HP ProLiant DL360 Gen8",
+    "idleW": 90,
+    "loadW": 250,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2650, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "server"
+  },
+  {
+    "slug": "hp-dl380-gen8",
+    "name": "HP ProLiant DL380 Gen8",
+    "idleW": 110,
+    "loadW": 300,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2650, 64 GB RAM, 4 drives, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "hp-dl360-gen9",
+    "name": "HP ProLiant DL360 Gen9",
+    "idleW": 85,
+    "loadW": 250,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2650 v3, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "server"
+  },
+  {
+    "slug": "hp-dl380-gen9",
+    "name": "HP ProLiant DL380 Gen9",
+    "idleW": 100,
+    "loadW": 290,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-2650 v3, 64 GB RAM, 4 drives, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "hp-microserver-gen8",
+    "name": "HP ProLiant MicroServer Gen8",
+    "idleW": 35,
+    "loadW": 70,
+    "sourceType": "estimate",
+    "config": "Celeron G1610T, 8 GB RAM, 2\u00d7 3.5\" HDD",
+    "lastReviewed": "2026-10-05",
+    "category": "server"
+  },
+  {
+    "slug": "hp-microserver-gen10-plus",
+    "name": "HP ProLiant MicroServer Gen10 Plus",
+    "idleW": 30,
+    "loadW": 65,
+    "sourceType": "estimate",
+    "config": "Xeon E-2224, 16 GB RAM, 2\u00d7 3.5\" HDD",
+    "lastReviewed": "2026-10-05",
+    "category": "server"
+  },
+  {
+    "slug": "supermicro-1u-e5",
+    "name": "Supermicro 1U (Xeon E5 v3/v4)",
+    "idleW": 80,
+    "loadW": 220,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-26xx v3/v4, 64 GB RAM, 2 SSDs, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "server"
+  },
+  {
+    "slug": "supermicro-2u-e5",
+    "name": "Supermicro 2U (Xeon E5 v3/v4)",
+    "idleW": 110,
+    "loadW": 280,
+    "sourceType": "estimate",
+    "config": "2\u00d7 E5-26xx v3/v4, 128 GB RAM, 4\u00d7 3.5\" HDD, 1 PSU",
+    "lastReviewed": "2026-10-05",
+    "rackU": 2,
+    "category": "server"
+  },
+  {
+    "slug": "lenovo-p520",
+    "name": "Lenovo ThinkStation P520",
+    "idleW": 55,
+    "loadW": 200,
+    "sourceType": "estimate",
+    "config": "Xeon W-2135, 64 GB RAM, NVMe, no GPU",
+    "lastReviewed": "2026-10-05",
+    "category": "server"
+  }
+]

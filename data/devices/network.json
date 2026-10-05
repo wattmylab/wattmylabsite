@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "switch-8-port",
+    "name": "8-port gigabit switch (unmanaged)",
+    "idleW": 3,
+    "loadW": 5,
+    "sourceType": "estimate",
+    "config": "Unmanaged, all ports linked",
+    "lastReviewed": "2026-10-05",
+    "category": "network"
+  },
+  {
+    "slug": "switch-8-port-poe",
+    "name": "8-port PoE switch",
+    "idleW": 8,
+    "loadW": 15,
+    "sourceType": "estimate",
+    "config": "Switch only; PoE devices counted separately",
+    "lastReviewed": "2026-10-05",
+    "category": "network"
+  },
+  {
+    "slug": "switch-24-port",
+    "name": "24-port managed switch",
+    "idleW": 15,
+    "loadW": 25,
+    "sourceType": "estimate",
+    "config": "Managed, 1G, no PoE",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "network"
+  },
+  {
+    "slug": "switch-24-port-poe",
+    "name": "24-port PoE managed switch",
+    "idleW": 25,
+    "loadW": 40,
+    "sourceType": "estimate",
+    "config": "Switch only; PoE devices counted separately",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "network"
+  },
+  {
+    "slug": "switch-48-port",
+    "name": "48-port managed switch",
+    "idleW": 30,
+    "loadW": 50,
+    "sourceType": "estimate",
+    "config": "Managed, 1G, no PoE",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "network"
+  },
+  {
+    "slug": "switch-48-port-poe",
+    "name": "48-port PoE managed switch",
+    "idleW": 45,
+    "loadW": 70,
+    "sourceType": "estimate",
+    "config": "Switch only; PoE devices counted separately",
+    "lastReviewed": "2026-10-05",
+    "rackU": 1,
+    "category": "network"
+  },
+  {
+    "slug": "router-consumer",
+    "name": "Consumer router / ISP hub",
+    "idleW": 8,
+    "loadW": 12,
+    "sourceType": "estimate",
+    "config": "Wi-Fi router with built-in modem",
+    "lastReviewed": "2026-10-05",
+    "category": "network"
+  },
+  {
+    "slug": "router-mini-pc-firewall",
+    "name": "Mini PC firewall (pfSense/OPNsense)",
+    "idleW": 10,
+    "loadW": 20,
+    "sourceType": "estimate",
+    "config": "N100 class, 4\u00d7 2.5G NICs",
+    "lastReviewed": "2026-10-05",
+    "category": "network"
+  },
+  {
+    "slug": "access-point",
+    "name": "Wi-Fi access point",
+    "idleW": 6,
+    "loadW": 12,
+    "sourceType": "estimate",
+    "config": "Wi-Fi 6, PoE powered",
+    "lastReviewed": "2026-10-05",
+    "category": "network"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "reviewed": "2026-10-05",
+  "regions": [
+    { "code": "GB", "name": "United Kingdom", "currency": "GBP", "locale": "en-GB", "pricePerKwh": 0.2632, "source": "Ofgem price cap, Oct–Dec 2026, direct debit average", "sourceUrl": "https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-october-and-31-december-2026", "asOf": "2026-10-01" },
+    { "code": "US", "name": "United States", "currency": "USD", "locale": "en-US", "pricePerKwh": 0.1856, "source": "EIA national average residential price, March 2026", "sourceUrl": "https://www.eia.gov/electricity/monthly/", "asOf": "2026-03-31" },
+    { "code": "DE", "name": "Germany", "currency": "EUR", "locale": "de-DE", "pricePerKwh": 0.438, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" },
+    { "code": "FR", "name": "France", "currency": "EUR", "locale": "fr-FR", "pricePerKwh": 0.304, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" },
+    { "code": "NL", "name": "Netherlands", "currency": "EUR", "locale": "nl-NL", "pricePerKwh": 0.235, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" },
+    { "code": "IE", "name": "Ireland", "currency": "EUR", "locale": "en-IE", "pricePerKwh": 0.508, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" },
+    { "code": "ES", "name": "Spain", "currency": "EUR", "locale": "es-ES", "pricePerKwh": 0.329, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" },
+    { "code": "IT", "name": "Italy", "currency": "EUR", "locale": "it-IT", "pricePerKwh": 0.333, "source": "Eurostat household price incl. taxes, H2 2025", "sourceUrl": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table", "asOf": "2025-12-31" }
+  ]
+}

@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f7f5;
+  --foreground: #1a1a1a;
+  --panel: #ffffff;
+  --field: #ffffff;
+  --line: #e2e2dd;
+  --muted: #6b6b66;
+  --accent: #f5b301;
+  --accent-strong: #a86b00;
+  --accent-soft: #fdf3d7;
+  --accent-ink: #1a1a1a;
+  --good: #1f7a3a;
+  --bad: #b42318;
+  --chart-old: #8a8a85;
+  --chart-new: #d99a00;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121212;
+    --foreground: #ededed;
+    --panel: #1c1c1c;
+    --field: #232323;
+    --line: #333331;
+    --muted: #a3a39e;
+    --accent: #f5b301;
+    --accent-strong: #f7c64a;
+    --accent-soft: #2e2611;
+    --accent-ink: #1a1a1a;
+    --good: #5cc47a;
+    --bad: #f97066;
+    --chart-old: #8a8a85;
+    --chart-new: #f5b301;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-panel: var(--panel);
+  --color-field: var(--field);
+  --color-line: var(--line);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Hide number spinners; the fields are small. */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}

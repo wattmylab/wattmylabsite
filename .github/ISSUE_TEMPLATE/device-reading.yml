@@ -1,0 +1,46 @@
+name: Submit a power reading
+description: Share a wall-plug meter reading for a device so presets get more accurate.
+title: "[Reading] "
+labels: ["device-reading"]
+body:
+  - type: input
+    id: model
+    attributes:
+      label: Device model
+      placeholder: Dell PowerEdge R720
+    validations:
+      required: true
+  - type: textarea
+    id: config
+    attributes:
+      label: Configuration
+      description: CPUs, RAM, drives, PSUs, add-in cards.
+      placeholder: 2× E5-2620 v2, 64 GB RAM, 2 SSDs, 1 PSU
+    validations:
+      required: true
+  - type: input
+    id: idle
+    attributes:
+      label: Idle watts
+    validations:
+      required: true
+  - type: input
+    id: load
+    attributes:
+      label: Load watts
+      description: Typical busy draw, not a stress test peak.
+    validations:
+      required: true
+  - type: input
+    id: meter
+    attributes:
+      label: Meter used
+      description: Readings must come from a wall-plug meter, not software estimates.
+      placeholder: Kill A Watt, Shelly Plug, TP-Link Tapo P110
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo (optional)
+      description: Drag in a photo of the meter reading.

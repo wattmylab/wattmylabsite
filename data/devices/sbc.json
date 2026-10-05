@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "raspberry-pi-4",
+    "name": "Raspberry Pi 4 Model B",
+    "idleW": 3,
+    "loadW": 6,
+    "sourceType": "estimate",
+    "config": "4 GB, microSD or USB SSD, no HATs",
+    "lastReviewed": "2026-10-05",
+    "category": "sbc"
+  },
+  {
+    "slug": "raspberry-pi-5",
+    "name": "Raspberry Pi 5",
+    "idleW": 3,
+    "loadW": 8,
+    "sourceType": "estimate",
+    "config": "8 GB, NVMe HAT, active cooler",
+    "lastReviewed": "2026-10-05",
+    "category": "sbc"
+  },
+  {
+    "slug": "raspberry-pi-zero-2w",
+    "name": "Raspberry Pi Zero 2 W",
+    "idleW": 1,
+    "loadW": 3,
+    "sourceType": "estimate",
+    "config": "Wi-Fi on, no peripherals",
+    "lastReviewed": "2026-10-05",
+    "category": "sbc"
+  }
+]

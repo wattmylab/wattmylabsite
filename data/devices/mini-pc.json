@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "n100-mini-pc",
+    "name": "Intel N100 mini PC",
+    "idleW": 7,
+    "loadW": 25,
+    "sourceType": "estimate",
+    "config": "N100, 16 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "n305-mini-pc",
+    "name": "Intel N305 mini PC",
+    "idleW": 9,
+    "loadW": 35,
+    "sourceType": "estimate",
+    "config": "i3-N305, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "dell-optiplex-micro-8th",
+    "name": "Dell OptiPlex Micro (8th\u20139th gen)",
+    "idleW": 9,
+    "loadW": 40,
+    "sourceType": "estimate",
+    "config": "i5-8500T, 16 GB RAM, 1 SSD",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "dell-optiplex-micro-12th",
+    "name": "Dell OptiPlex Micro (12th gen+)",
+    "idleW": 8,
+    "loadW": 50,
+    "sourceType": "estimate",
+    "config": "i5-12500T, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "lenovo-m720q",
+    "name": "Lenovo ThinkCentre M720q Tiny",
+    "idleW": 8,
+    "loadW": 40,
+    "sourceType": "estimate",
+    "config": "i5-8500T, 16 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "lenovo-m920q",
+    "name": "Lenovo ThinkCentre M920q Tiny",
+    "idleW": 8,
+    "loadW": 45,
+    "sourceType": "estimate",
+    "config": "i5-9500T, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "hp-elitedesk-800-g4-mini",
+    "name": "HP EliteDesk 800 G4 Mini",
+    "idleW": 9,
+    "loadW": 40,
+    "sourceType": "estimate",
+    "config": "i5-8500T, 16 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "hp-elitedesk-800-g6-mini",
+    "name": "HP EliteDesk 800 G6 Mini",
+    "idleW": 8,
+    "loadW": 45,
+    "sourceType": "estimate",
+    "config": "i5-10500T, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "intel-nuc-11",
+    "name": "Intel NUC 11 (i5)",
+    "idleW": 8,
+    "loadW": 45,
+    "sourceType": "estimate",
+    "config": "i5-1135G7, 16 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "intel-nuc-13",
+    "name": "Intel NUC 13 Pro (i5)",
+    "idleW": 7,
+    "loadW": 50,
+    "sourceType": "estimate",
+    "config": "i5-1340P, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "ryzen-mini-pc",
+    "name": "AMD Ryzen mini PC (7840HS class)",
+    "idleW": 9,
+    "loadW": 60,
+    "sourceType": "estimate",
+    "config": "Ryzen 7 7840HS, 32 GB RAM, 1 NVMe",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  },
+  {
+    "slug": "mac-mini-m2",
+    "name": "Apple Mac mini (M2)",
+    "idleW": 5,
+    "loadW": 30,
+    "sourceType": "estimate",
+    "config": "M2, 16 GB RAM",
+    "lastReviewed": "2026-10-05",
+    "category": "mini-pc"
+  }
+]

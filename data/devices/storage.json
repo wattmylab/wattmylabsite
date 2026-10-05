@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "hdd-3-5",
+    "name": "3.5\" hard drive",
+    "idleW": 5,
+    "loadW": 8,
+    "sourceType": "estimate",
+    "config": "7200 rpm, spinning (idle) vs active",
+    "lastReviewed": "2026-10-05",
+    "notes": "Per drive. Spun-down drives use under 1 W.",
+    "category": "storage"
+  },
+  {
+    "slug": "ssd-2-5",
+    "name": "2.5\" SATA SSD",
+    "idleW": 0.5,
+    "loadW": 3,
+    "sourceType": "estimate",
+    "config": "Typical consumer SATA SSD",
+    "lastReviewed": "2026-10-05",
+    "notes": "Per drive.",
+    "category": "storage"
+  },
+  {
+    "slug": "nvme-ssd",
+    "name": "NVMe SSD",
+    "idleW": 1,
+    "loadW": 6,
+    "sourceType": "estimate",
+    "config": "Typical PCIe 3/4 NVMe",
+    "lastReviewed": "2026-10-05",
+    "notes": "Per drive.",
+    "category": "storage"
+  }
+]

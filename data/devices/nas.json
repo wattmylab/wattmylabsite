@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "synology-2-bay",
+    "name": "Synology 2-bay NAS (DS2xx)",
+    "idleW": 8,
+    "loadW": 18,
+    "sourceType": "estimate",
+    "config": "2\u00d7 3.5\" HDD spinning",
+    "lastReviewed": "2026-10-05",
+    "category": "nas"
+  },
+  {
+    "slug": "synology-4-bay",
+    "name": "Synology 4-bay NAS (DS9xx)",
+    "idleW": 15,
+    "loadW": 35,
+    "sourceType": "estimate",
+    "config": "4\u00d7 3.5\" HDD spinning",
+    "lastReviewed": "2026-10-05",
+    "category": "nas"
+  },
+  {
+    "slug": "qnap-4-bay",
+    "name": "QNAP 4-bay NAS (TS-4xx)",
+    "idleW": 16,
+    "loadW": 38,
+    "sourceType": "estimate",
+    "config": "4\u00d7 3.5\" HDD spinning",
+    "lastReviewed": "2026-10-05",
+    "category": "nas"
+  },
+  {
+    "slug": "diy-nas-n100",
+    "name": "DIY NAS (N100 board)",
+    "idleW": 15,
+    "loadW": 40,
+    "sourceType": "estimate",
+    "config": "N100 board, 4\u00d7 3.5\" HDD spinning",
+    "lastReviewed": "2026-10-05",
+    "category": "nas"
+  },
+  {
+    "slug": "diy-nas-desktop",
+    "name": "DIY NAS (desktop CPU)",
+    "idleW": 35,
+    "loadW": 90,
+    "sourceType": "estimate",
+    "config": "i3/Ryzen desktop CPU, 6\u00d7 3.5\" HDD spinning",
+    "lastReviewed": "2026-10-05",
+    "category": "nas"
+  }
+]
